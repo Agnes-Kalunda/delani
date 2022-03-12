@@ -43,3 +43,14 @@
     justify-content: space-evenly;
     padding-top: 2%;
 }
+
+
+.portfolio1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.portfolio2{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5%;
+}
