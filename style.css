@@ -31,3 +31,15 @@
     color: white;
     padding-top: 7%;
 }
+
+.container4{
+    padding-top: 3%;
+}
+.container4 h2{
+    text-align: center;
+}
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 2%;
+}
