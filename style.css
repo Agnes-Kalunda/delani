@@ -1,0 +1,10 @@
+.container1{
+    text-align: center;
+    background-image: url(images/h_img.jpg);
+    background-repeat: no-repeat;
+     background-size: cover; 
+    height: 500px;
+    width: 100%;
+    color: white;
+    
+}
