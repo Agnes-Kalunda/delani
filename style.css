@@ -64,9 +64,19 @@
 
 .container6{
     justify-content: center;
-    background-image: url(images/);
+    background-image: url(images/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 100%;
 }
 
-.container7{
+/* .container7{
     justify-content: space-evenly;
+} */
+
+form{
+    /* justify-items: center; */
+    text-align: center;
+    color: white;
 }
