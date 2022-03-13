@@ -55,6 +55,7 @@
     text-align: center;
     color: black;
     opacity: 0;
+    transition: 3s;
 }
 
 .onClickTextOverImage div.show{
