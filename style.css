@@ -44,6 +44,24 @@
     padding-top: 2%;
 }
 
+.onClickTextOverImage{
+    cursor: pointer;
+    position: relative;
+    
+}
+
+.onClickTextOverImage div{
+    position: absolute;
+    text-align: center;
+    color: black;
+    opacity: 0;
+}
+
+.onClickTextOverImage div.show{
+    opacity: 1;
+
+}
+
 
 .container5{
     padding-top: 5%;
