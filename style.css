@@ -30,9 +30,7 @@
     height: 300px;
     color: white;
     padding-top: 7%;
-}
-
-.container4{
+}.container4{
     padding-top: 3%;
 }
 .container4 h2{
@@ -105,8 +103,8 @@
 } 
 
 form{
-    /* justify-items: center; */
-    text-align: center;
+    justify-items: center;
+     text-align: center;
     color: white;
     opacity: 0.4;
 }
@@ -115,4 +113,5 @@ form{
 .container8{
     
     text-align: center;
-}
+ } 
+
