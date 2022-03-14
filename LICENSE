@@ -1,34 +1,3 @@
-# delani
-## Table of Content
-
-+ [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [live link](#live-link)
-+ [Technology Used](#technology-used)
-+ [Licence](#licence)
-+ [Authors Info](#author-Info)
-
-## Description
-<p>This is  a website that shows a user their Akan Names after they fill out the form , based on their date,month and year of birth</p>
-
-## Installation
-
-### Requirements
-
-* Either a computer,phone,tablet or an Ipad
-
-* An access to the Internet
-
-
-## Technology Used
-* HTML - which was used to build the structure of the pages.
-
-* CSS - which was used to style the pages 
-
-* JAVASCRIPT/jQuery - Which was used to make the site more responsive
-
-
-
 ## Licence
 
 MIT License
@@ -53,11 +22,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-
-## Authors Info
-Agnes Kalunda (+254 707606316)
-Email (agypeter97@gmail.com)
-
-
-[Go Back to the top](#portfolio)
