@@ -76,10 +76,32 @@
 
 .container5{
     padding-top: 5%;
+
+}
+.container5 img:hover{
+    opacity: calc(30%);
 }
 .container5 h2{
     text-align: center;
     
+}
+
+
+.img1{
+    position: relative;
+}
+textImage1{
+    position:absolute;
+    top:0;
+    left:2px;
+    display: none;
+    /* border; ipx solid white; */
+}
+
+
+.img1 :hover .textImage1{
+    display: block;
+
 }
 .portfolio1{
     display: flex;
@@ -126,4 +148,41 @@ form{
     
     text-align: center;
  } 
+
+
+ #img1P{
+     display: none;
+     color: white;
+     position: relative;
+     top: -40%;
+     border: 2px solid white;
+     width: 50%;
+     text-align: center;
+     left: 15%;
+
+ }
+
+ .img1{
+     height: 40vh;
+     width: 50vh;
+ }
+
+
+ #img2P , #img3P ,  #img4P{
+    display: none;
+    color:red;
+    position: relative;
+    top: -40%;
+    border: 2px solid white;
+    width: 50%;
+    text-align: center;
+    left: 15%;
+    font-size: 100%;
+
+}
+
+.img2 , .img3 , .img4{
+    height: 40vh;
+    width: 50vh;
+}
 
