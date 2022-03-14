@@ -10,6 +10,8 @@
     
 }
 
+
+
 .container1 h1 , h4{
     opacity: 0.8;
 }
@@ -45,6 +47,7 @@
 .pIconA , .pIconB , .pIconC{
     display: none;
     text-align: center;
+    font-weight: bold;
     /* width: 30%; */
     padding: 0px;
     /* margin: 0px; */
