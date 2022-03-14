@@ -38,10 +38,22 @@
 }
 .icons{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     padding-top: 2%;
 }
 
+.pIconA , .pIconB , .pIconC{
+    display: none;
+    width: 30%;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.iconA , .iconB , .iconC{
+    width: 30%;
+}
+/* 
 .onClickTextOverImage{
     cursor: pointer;
     position: relative;
@@ -59,7 +71,7 @@
 .onClickTextOverImage div.show{
     opacity: 1;
 
-}
+} */
 
 
 .container5{

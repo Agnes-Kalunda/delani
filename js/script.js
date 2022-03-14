@@ -1,51 +1,60 @@
 
-$(document).ready(function () {
-    $(".img_1").click(function () {
-      $(this).toggle(function () {
-        $(".design").toggle();
-      });
-    });
-    $(".design").click(function () {
-      $(this).toggle(function () {
-        $(".img_1").toggle();
-      });
-    });
-  });
-  
-  $(document).ready(function () {
-    $(".img_2").click(function () {
-      $(this).toggle(function () {
-        $(".development").toggle();
-      });
-    });
-    $(".development").click(function () {
-      $(this).toggle(function () {
-        
-  
+
+
+$(document).ready(function (){
+   $(".iconA").click(function(){
+       $(".iconA").toggle();
+       $(".pIconA").toggle();
+   }) 
+
+   $(".pIconA").click(function(){
+    $(".pIconA").toggle();
+    $(".iconA").toggle();
+}) 
+
+$(".iconB").click(function(){
+    $(".iconB").toggle();
+    $(".pIconB").toggle();
+}) 
+
+$(".pIconB").click(function(){
+ $(".pIconB").toggle();
+ $(".iconB").toggle();
+}) 
+
+$(".iconC").click(function(){
+    $(".iconC").toggle();
+    $(".pIconC").toggle();
+}) 
+
+$(".pIconC").click(function(){
+ $(".pIconC").toggle();
+ $(".iconC").toggle();
+}) 
 
 
 
 
-// toggle effect
-// $(document).ready(function () {
-//     $("#imgDesign").click(function () {
-//       $(this).toggle(function () {
-//         $("#pDesign").toggle();
-//       });
-//     });
-//     $("#development").click(function () {
-//       $(this).toggle(function () {
-//         $("#pImgDesign").toggle();
-//       });
-//     });
-//   });
-  
-//   $(document).ready(function () {
-//     $("#imgProduct").click(function () {
-//       $(this).toggle(function () {
-//         $("#prodMan").toggle();
-//       });
-//     });
+
+
+
+
+
+
+
+
+
+
+
+
+})
+
+
+
+
+
+
+
 
   
 
