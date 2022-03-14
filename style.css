@@ -150,25 +150,26 @@ form{
  } 
 
 
- #img1P{
+ #img1P , #img2P , #img3P ,  #img4P , #img5P, #img6P , #img7P , #img8P {
      display: none;
-     color: white;
+     color: black;
      position: relative;
-     top: -40%;
-     border: 2px solid white;
+     top: -50%;
+     border: 2px solid grey;
      width: 50%;
      text-align: center;
      left: 15%;
+     border-radius: 30px;
 
  }
 
  .img1{
-     height: 40vh;
-     width: 50vh;
+     height: 30vh;
+     width: 40vh;
  }
 
 
- #img2P , #img3P ,  #img4P{
+ /* #img2P , #img3P ,  #img4P{
     display: none;
     color:red;
     position: relative;
@@ -177,12 +178,12 @@ form{
     width: 50%;
     text-align: center;
     left: 15%;
-    font-size: 100%;
+    font-size: 50px;
 
-}
+} */
 
-.img2 , .img3 , .img4{
-    height: 40vh;
-    width: 50vh;
+.img2 , .img3 , .img4 ,.img5 , .img6 , .img7, .img8{
+    height: 30vh;
+    width: 40vh;
 }
 

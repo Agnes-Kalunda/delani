@@ -69,6 +69,37 @@ $('.imageFour').mouseover(function(){
 })
 
 
+$('.imageFive').mouseover(function(){
+    $('#img5P').show();
+}) .mouseout(function(){
+    $('#img5P').hide();
+})
+
+
+$('.imageSix').mouseover(function(){
+    $('#img6P').show();
+}) .mouseout(function(){
+    $('#img6P').hide();
+})
+
+
+
+$('.imageSeven').mouseover(function(){
+    $('#img7P').show();
+}) .mouseout(function(){
+    $('#img7P').hide();
+})
+
+
+$('.imageEight').mouseover(function(){
+    $('#img8P').show();
+}) .mouseout(function(){
+    $('#img8P').hide();
+})
+
+
+
+
 
 
 
