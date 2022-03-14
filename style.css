@@ -44,15 +44,16 @@
 
 .pIconA , .pIconB , .pIconC{
     display: none;
-    width: 30%;
+    text-align: center;
+    /* width: 30%; */
     padding: 0px;
-    margin: 0px;
+    /* margin: 0px; */
 
 }
 
-.iconA , .iconB , .iconC{
+/* .iconA , .iconB , .iconC{
     width: 30%;
-}
+} */
 /* 
 .onClickTextOverImage{
     cursor: pointer;
