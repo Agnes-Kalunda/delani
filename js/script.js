@@ -98,7 +98,20 @@ $('.imageEight').mouseover(function(){
 })
 
 
-
+$(document).ready(function() {
+    $("form#formm").submit(function(event) {
+        var name = $("input#name").val();
+        var email = $("input#email").val();
+        var message = $("").val();
+        if ($("input#name").val() && $("input#email").val()) {
+            alert(name + ", we have received your message. Thank you for reaching out to us.");
+        } else {
+            alert("Please enter your Name and Email");
+        }
+    });
+});
+function myFunction() {
+}
 
 
 
