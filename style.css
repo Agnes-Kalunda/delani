@@ -10,10 +10,6 @@
     
 }
 
-.mouse{
-    
-}
-
 
 
 .welcome h1 , h4{
@@ -148,14 +144,37 @@ textImage1{
 
 } 
 
-form{
+/* .form{
     justify-items: center;
      text-align: center;
     color: white;
     opacity: 0.4;
-}
+} */
+.contact {
+    height: 80%;
+    background-image: url(images/c_image.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;}
 
+    .container{
+        text-align: center;
+      
+        background-repeat: no-repeat;
+    }
 
+    /* form{
+        
+        background-image: url(images/c_image.jpg);
+        background-repeat: no-repeat;
+        position: relative;
+        background-position: center;
+        color: white;
+        background-size: cover;
+        height: 100%;
+    } */
 .container8{
     
     text-align: center;
