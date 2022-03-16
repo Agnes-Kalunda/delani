@@ -80,6 +80,8 @@ $('.imageSix').mouseover(function(){
     $('#img6P').show();
 }) .mouseout(function(){
     $('#img6P').hide();
+
+    
 })
 
 
